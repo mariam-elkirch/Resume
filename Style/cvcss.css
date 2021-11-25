@@ -1,0 +1,56 @@
+div.gallery {
+    margin: 2px;
+	background-color:#FFEBCD
+    
+	
+	
+   
+}
+
+div.desc {
+    margin: 3px;
+	font-size: 50px;
+	font-style:bold;
+    
+}
+.line {
+   
+    padding: 10px;
+   background-color:#000080;
+    
+}
+.title{
+ color: #000080;
+font-size: 35px;
+
+font-style:bold;
+    
+}
+.br{
+
+border-color:#000080;
+border-radius: 2px;
+
+border-style: outset;
+background-color:#FFEBCD
+
+}
+.title2{
+
+font-size: 25px;
+display: inline;
+font-style:bold;
+
+
+}
+.fadfadly{
+font-size: 30px;
+display: inline;
+font-style:bold;
+
+}
+.word{
+
+font-size: 24px;
+display: inline;
+}
